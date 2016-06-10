@@ -44,11 +44,11 @@ Once we have cleaned and merged the data, it will be straightforward to answer t
 
 ## 3. Link data to officer profiles
 
-The Invisible Institute runs the Chicago Police Data Project: https://cpdb.co/
+The Invisible Institute runs the Citizens Police Data Project: https://cpdb.co/
 
 This project collects data about Chicago police officers to create profiles. For example, here is the profile of CPD officer Raymond Piwnicki: https://cpdb.co/officer/raymond-piwnicki/5875
 
-By merging the shootings data into the Chicago Police Data Project, we can create an increasingly complete officer profile encompassing demographics, misconduct allegations, discipline, shootings, salary, employment history, and other important data points.
+By merging the shootings data into the Citizens Police Data Project, we can create an increasingly complete officer profile encompassing demographics, misconduct allegations, discipline, shootings, salary, employment history, and other important data points.
 
 # Linking officer records
 
